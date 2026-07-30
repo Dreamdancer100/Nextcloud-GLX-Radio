@@ -1,7 +1,7 @@
 # GLX-Radio for Nextcloud
 
 **GLX-Radio** is a custom Nextcloud application designed to bring seamless internet radio streaming directly to your private cloud environment. Featuring a clean, modern dark UI, a persistent top player, custom folder organization, and direct integration with radio-browser.info.
-
+Currently, the app is only available in German; I am still working on a translation or a switch button to change the app's language to English.
 ---
 
 ## 📸 Overview & Screenshots
