@@ -35,7 +35,8 @@ Die Hauptoberfläche hat einen **durchgehend laufenden Player** oben, der weiter
 
 ### 2️⃣ Externe Radiosender
 
-Durchsuche und entdecke beliebte externe Radiosender live aus **`radio-browser.info`** (nach Beliebtheit sortiert) und füge sie mit einem Klick direkt zu deinen Favoriten hinzu. 🔍➕
+Durchsuche und entdecke beliebte externe Radiosender ca. 40000 live Sendet aus 
+**`radio-browser.info`** (nach Beliebtheit sortiert) und füge sie mit einem Klick direkt zu deinen Favoriten hinzu. 🔍➕
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dreamdancer100/Nextcloud-GLX-Radio/main/external%20radio%20stations.png" alt="Externe Radiosender" width="850">
