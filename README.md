@@ -88,6 +88,14 @@ Comprehensive built-in instructions covering everything — playing streams, add
 
 ---
 
+## 🔗 More about this app
+
+👉 **[GLX-Radio on gordonx.de](https://gordonx.de/glx-radio-nextcloud-app/)** — description, screenshots and download.
+
+---
+
+---
+
 ## 📄 License
 
 This project is licensed under the **AGPL-3.0-or-later** license. See the [LICENSE](LICENSE) file for details.
