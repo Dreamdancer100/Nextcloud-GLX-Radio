@@ -89,7 +89,7 @@ Ausführliche eingebaute Anleitung zu allem – Streams abspielen, eigene Sender
 
 ---
 
-## 🔗 More about this app
+## 🔗 Mehr über diese APP
 
 👉 **[GLX-Radio auf gordonx.de](https://gordonx.de/glx-radio-nextcloud-app/)** — Beschreibung, Bilder & Download.
 
