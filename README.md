@@ -94,8 +94,6 @@ Comprehensive built-in instructions covering everything — playing streams, add
 
 ---
 
----
-
 ## 📄 License
 
 This project is licensed under the **AGPL-3.0-or-later** license. See the [LICENSE](LICENSE) file for details.
